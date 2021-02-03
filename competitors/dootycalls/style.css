@@ -1,0 +1,153 @@
+.page-body{
+    background-color: #ffffff;
+}
+    
+.font-lucky-guy{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 45px;
+}
+.scoopy{
+    color:rgb(123,80,160);
+    -webkit-text-stroke: 1px #eaa625;
+}
+.crew{
+    color:#fff;
+    -webkit-text-stroke: 1px #eaa625;
+    font-size: 30px;
+}
+
+.font-lucky-guy-jumbo{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 90px;
+    margin-top:100px;
+}
+.scoopy-jumbo{
+    color:rgb(123,80,160);
+    -webkit-text-stroke: 2px #eaa625;
+}
+.crew-jumbo{
+    color:#fff;
+    -webkit-text-stroke: 2px #eaa625;
+    font-size: 40px;
+}
+.navigation-head{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    
+}
+.item-phone{
+    margin-right:5px;
+    font-size:20px;
+    font-weight: bold;
+}
+.free-quote{
+    font-weight: 800;
+    color:black;
+    font-size: 10px;
+    font-weight: bold;
+    
+}
+.find-poo{
+    text-align:center;
+    font-family: 'Luckiest Guy', cursive;
+    font-style: italic;
+    color:#fff;
+    -webkit-text-stroke: 2px #eaa625;
+    font-size: 40px;
+}
+.amora-jumbo{
+    /* Align center */
+    /* display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; */
+    /* right */
+    float: right;
+}
+.amora-beach{
+    float: right;
+    margin-top:200px;
+    border-radius: 30px;
+
+}
+.jumbo-cont{
+    background-color: #79b7e0;
+}
+.jumbo-quote{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+.location-jumbo-btn{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.how-it-works{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+.it-works{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size:30px;
+}
+.it-works-desc{
+    text-align: center;
+    font-size:20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.photo-background{
+    /* background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height:50%;
+    background-position: 0px 0px 0px 400px; */
+    /* background-image: url("./IMG_9241.jpeg"); */
+    background-color: #79b7e0;
+}
+.more-one-facts{
+    margin-top:200px;
+}
+.more-two-facts{
+    margin-top:100px;
+}
+.back-img-head{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color:black;
+    font-size: 50px;
+}
+.back-img-desc{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+.modal-head-price{
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.prices-just-start{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+/* Mobile */
+
+@media only screen and (max-width: 600px) {
+    .font-lucky-guy-jumbo{
+        font-family: 'Luckiest Guy', cursive;
+        font-size: 60px;
+        margin-top:100px;
+    }
+  }
